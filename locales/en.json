@@ -8,16 +8,16 @@
     "projects": "Projects"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Mahardiika Kessuma",
+    "lastName": "Denie",
     "subHeadingText": [
       "Software Enginneer",
       "Full Stack Developer",
       "Code enthusiast!"
     ],
-    "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
+    "city": "Bandung, Indonesia",
+    "phoneNumber": "+62 - 896-2117-4934",
+    "email": "dikamahar884@gmail.com",
     "linkedin": "https://www.linkedin.com/in/ivan-greve/",
     "github": "https://github.com/ivangreve/",
     "myDescription": "Passionate web developer, making useful application using the latest technologies!"
@@ -26,19 +26,19 @@
     "title": "Education 📕",
     "degrees": [
       {
-        "collage": "University of La Matanza",
+        "collage": "University of Adhirajasa Reswara Sanjaya",
         "name": "Engineer Degree",
         "itemList": ["Computer Science"],
         "startEndDate": "March 2013 - December 2018"
       },
       {
-        "collage": "University of La Matanza",
+        "collage": "High Scohool of 1 Sumedang",
         "name": "Software Engineering Technician",
         "itemList": ["Computer Science"],
         "startEndDate": "March 2013 - December 2016"
       },
       {
-        "collage": "Instituto Madero",
+        "collage": "Junior High School of 1 Sumedang",
         "name": "Electronic technician",
         "itemList": ["Electronic"],
         "startEndDate": "March 2007 - December 2012"
